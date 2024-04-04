@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omsapkar
-- 👀 I’m interested in web development
+- 👀 I’m interested in Data Analysis and Artificial Intelligence
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Web development
+- 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me on Gmail: Omsapkar17@gmail.com
 
 <!---
